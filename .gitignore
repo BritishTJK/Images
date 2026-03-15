@@ -1,0 +1,14 @@
+# --- Graphics & Assets ---
+# We want to keep .svg, but ignore heavy raster backups if they appear
+*.psd
+*.ai
+*.sketch
+
+# --- System Files ---
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# --- IDEs ---
+.vscode/
